@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.panda-carousel .carousel-item{
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
+.categories img{
+    width: 100px;
+}
+.categories h1{
+    color: white;
+}
+.btn-color{
+    background-image: linear-gradient(180deg,#FF5096,#FF2077);
+    color: white;
+    border-radius: 8px;
+    margin: 10px 0 20px 0;
+}
+.bg-watch{
+    background-color: #FFA500;
+}
+.bg-bag{
+    background-color: #DA70D6;
+}
+.bg-shoe{
+    background-color: #0000FF;
+}
+.radius{
+    border-radius: 1em;
+}
+.bottom{
+    background-color: #FCEAE8;
+    border-radius: 1em;
+}
